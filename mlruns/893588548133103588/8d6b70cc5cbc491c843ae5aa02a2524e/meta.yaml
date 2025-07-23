@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/ml_project/mlruns/893588548133103588/8d6b70cc5cbc491c843ae5aa02a2524e/artifacts
+end_time: 1753251495553
+entry_point_name: ''
+experiment_id: '893588548133103588'
+lifecycle_stage: active
+run_id: 8d6b70cc5cbc491c843ae5aa02a2524e
+run_name: funny-mole-180
+run_uuid: 8d6b70cc5cbc491c843ae5aa02a2524e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251491349
+status: 3
+tags: []
+user_id: Priyanka Natta
