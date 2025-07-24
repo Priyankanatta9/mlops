@@ -11,4 +11,3 @@ dvc
 fastapi
 uvicorn
 pydantic
-mlflow>=2.0
